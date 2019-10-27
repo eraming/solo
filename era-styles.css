@@ -1,0 +1,36 @@
+
+
+
+#collapsibleNavbar {
+  justify-content: center;
+  color: white;
+}
+
+.jumbotron {
+  background-image: url("./media/buds.jpg");
+  opacity: 0.75;
+  color: beige; 
+  background-repeat: no-repeat;
+  font-family: 'Sumana', serif;
+
+}
+
+.container {
+  padding: 20px 20px 20px 20px;
+}
+
+
+
+h2, h3, h4 {
+  font-family: 'Sumana', serif;
+  color: 575145;
+}
+
+p {
+text-align: left;
+
+}
+
+.footer {
+  text-align: center;
+}
