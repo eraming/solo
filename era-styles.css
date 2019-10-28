@@ -9,7 +9,7 @@
 .jumbotron {
   background-image: url("./media/buds.jpg");
   opacity: 0.75;
-  color: beige; 
+  color: beige;
   background-repeat: no-repeat;
   font-family: 'Sumana', serif;
 
@@ -18,8 +18,6 @@
 .container {
   padding: 20px 20px 20px 20px;
 }
-
-
 
 h2, h3, h4 {
   font-family: 'Sumana', serif;
@@ -33,4 +31,11 @@ text-align: left;
 
 .footer {
   text-align: center;
+}
+
+.bb-thumb {
+    width: 181px;
+    height:200px;
+    border-style: solid;
+    border-width: thin;
 }
